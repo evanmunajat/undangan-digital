@@ -132,7 +132,7 @@
                 </div>
                 <div class="btn-gift mt-2">
                     <button class="btn-gitf mt-4">
-                        <a href="https://wa.me/6289658529392">
+                        <a href="https://wa.me/628580199939">
                             <span class="icon"><i class="fa-solid fa-gift"></i> Kirim Kado</span>
                         </a>
                     </button>
