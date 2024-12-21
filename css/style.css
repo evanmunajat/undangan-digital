@@ -6,7 +6,7 @@ body {
     height: 100%;
     overflow-y: auto; /* Agar halaman dapat digulir secara vertikal */
     font-family: 'Poppins', sans-serif;
-    background-image: url('image/background.png');
+    background-image: url('../image/bg-image.jpeg'); /* Path relatif menuju folder image */
     background-size: cover; /* Memastikan gambar latar belakang menutupi seluruh layar */
     background-position: top center; /* Posisikan gambar di atas dan di tengah */
     background-repeat: no-repeat; /* Jangan ulangi gambar */

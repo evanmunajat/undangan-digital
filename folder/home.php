@@ -5,6 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
     <!-- Google Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link
@@ -19,10 +20,10 @@
         integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
 
     <!-- Custom CSS -->
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="/css/style.css">
 
 
-    <title>Undangan Ulang Tahun - Kirana</title>
+    <title>Undangan Ulang Tahun - Arsyil</title>
 </head>
 
 <style>
@@ -34,7 +35,7 @@
 <body>
 
 <audio id="background-music" autoplay loop muted>
-        <source src="audio/Selamat Ulang Tahun (feat. Jhelin).mp3" type="audio/mpeg">
+        <source src="/audio/Selamat Ulang Tahun (feat. Jhelin).mp3" type="audio/mpeg">
     </audio>
     
     <!-- Tombol Musik (hanya untuk Safari) -->
@@ -46,7 +47,7 @@
         
     <div class="image-container2">
             <div class="overlay"></div>
-            <img src="avatar/IMG-20241126-WA0003.jpg" alt="image">
+            <img src="/avatar/IMG-20241126-WA0003.jpg" alt="image">
         </div>
 
         <div class="title-home text-center mt-5 mb-5">
@@ -125,7 +126,7 @@
 
             <div class="gift text-center mt-5">
                 <div class="image-container3 mt-5">
-                    <img src="avatar/IMG-20241126-WA0012.jpg" alt="Gambar Bulat" class="rounded-image">
+                    <img src="/avatar/IMG-20241126-WA0012.jpg" alt="Gambar Bulat" class="rounded-image">
                 </div>
                 <div class="text-gift">
                     <p class="mt-5">Terima Kasih telah menambah semangat kegembiraan ulang tahun anak kami yang ke-6 tahun, dengan kehadiran dan hadiah indah dari teman-teman Kirana.</p>
@@ -213,7 +214,7 @@ if ($result->num_rows > 0) {
         </div>
     </div>
 
-    <script src="js/script.js"></script>
+    <script src="/js/script.js"></script>
 </body>
 
 </html>
